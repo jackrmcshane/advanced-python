@@ -1,0 +1,2 @@
+User:joem@example.com 12/09/2022 01:39:23 PM: INFO: custom_logging Line:39 This is an info-level log message
+User:joem@example.com 12/09/2022 01:39:23 PM: WARNING: custom_logging Line:40 This is an warning-level log message
